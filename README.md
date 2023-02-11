@@ -26,5 +26,8 @@ I am a Bilbao-based software engineer who is always willing to learn new technol
 ### Portfolio Website
 [https://danelue.netlify.app/](https://danelue.netlify.app/)
 
+### Github Stats
+[![Danel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danelo11&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Profile Visits 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanelo11&labelColor=%2337d67a&countColor=%23697689&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdanelo11)
