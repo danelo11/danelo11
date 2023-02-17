@@ -31,3 +31,6 @@ I am a Bilbao-based software engineer who is always willing to learn new technol
 
 ### Profile Visits 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanelo11&labelColor=%2337d67a&countColor=%23697689&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdanelo11)
+
+### Most Used Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danelo11)](https://github.com/danelo11/github-readme-stats)
